@@ -1,0 +1,2 @@
+# DeleteMe
+A temporary repository
